@@ -14,6 +14,8 @@ ________________________________________
 Cours NSI : http://projet.eu.org/pedago/sin/NSI/
 ________________________________________
 http://www.maths-info-lycee.fr/nsi_1ere.html
+ téléchargement : http://www.maths-info-lycee.fr/notebooks/nsi_8_traitement_des_donnees.ipynb
+Le cours et les exos :http://www.maths-info-lycee.fr/notebooks/nsi_8_traitement_des_donnees.ipynb
 ________________________________________
 Le 15/03/2020 à 23:08, Vincent-Xavier JUMEL a écrit :
 > https://educloud.ac-creteil.fr/index.php/s/9cTTQF5WSG54TYx
