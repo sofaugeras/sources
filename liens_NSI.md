@@ -136,3 +136,6 @@ Sur le web j’ai une longue  expérience d’enseignement avec mes sti2d sin vo
 http://tsin.langevin-la-seyne.fr/SIN/robot-raspberry-pi-d-inspection.html
 http://tsin.langevin-la-seyne.fr/SIN/ballon-meteo-raspberry-pi.html
 cordialement
+ ________________________________________
+ 
+outils client/serveur : https://httpie.org/
