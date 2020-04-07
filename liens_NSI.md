@@ -73,21 +73,41 @@ Source opendata : https://www.kaggle.com/
 ________________________________________
 Binaire : 
 http://pise.info/algo/codage.htm
+
 https://codebeautify.org/binary-decimal-converter
+
 https://www.youtube.com/watch?v=y2e7RuFd5gU&list=PLOapGKeH_KhGI1CsCvu_nK9otou8_KsCZ
+
 TP 8 : L’alphabet shadok : https://www.fil.univ-lille1.fr/~wegrzyno/portail/Info/Doc/HTML/tp_numeration_shadok.html
+
 Primaire : https://www.classedemmeannelise.be/2019/04/08/ecrire-son-prenom-et-des-nombres-en-code-binaire/
 ________________________________________
 Python : 
 http://www.nymphomath.ch/pj/intro/index.html
 https://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx2/notebooks/expose_TSP.html
+
 Jeux : https://codecombat.com/ ou http://www.france-ioi.org/ ou https://www.codingame.com/start
+
 Complexité en temps : https://wiki.python.org/moin/TimeComplexity
+
 https://python.iutsf.org/
+
 http://pise.info/algo/codage.htm
+
 https://cscircles.cemc.uwaterloo.ca/python-chez-vous/
+
 Algo rendu de monnaie : https://tryalgo.org/fr/2016/12/11/rendudemonnaie/
+
 Algo classique : ( tris, jeux, calendriers, cryptographie, compression de données…) http://lwh.free.fr/
- 
+
+ ________________________________________
+Comme nous avons installé un serveur Jupyter au lycée (merci encore Olivier pour ton travail), nous utilisons les notebooks et il y a une bibliothèque assez géniale qui est ipythonblocks ( http://www.ipythonblocks.org/ ).
+J'ai commis quelques notebooks pour permettre aux élèves d'apprendre les boucles for, les boucles while, et les tranches de liste. Ça utilise cette bibliothèque, on commence par quelques lignes, des dégradés, et on finit par des drapeaux nationaux.
+L'étape d'après (pas encore réalisée) ce sera de faire des spirales puis de créer un labyrinthe.
+Le notebook de départ est visible là :
+https://nbviewer.jupyter.org/github/swirly/nsi-notebooks/blob/master/ipythonblocks/boucles.ipynb
+Il y a un notebook d'introduction (on peut y accéder à partir de celui là grâce au lien) et chaque notebook est ouvert grâce à un lien dans le précédent (il y en a 5 en tout)
+Le dépot git est en ligne sur github
+https://github.com/swirly/nsi-notebooks/tree/master/ipythonblocks
 
 
