@@ -101,6 +101,7 @@ Algo rendu de monnaie : https://tryalgo.org/fr/2016/12/11/rendudemonnaie/
 Algo classique : ( tris, jeux, calendriers, cryptographie, compression de données…) http://lwh.free.fr/
 
  ________________________________________
+ 
 Comme nous avons installé un serveur Jupyter au lycée (merci encore Olivier pour ton travail), nous utilisons les notebooks et il y a une bibliothèque assez géniale qui est ipythonblocks ( http://www.ipythonblocks.org/ ).
 J'ai commis quelques notebooks pour permettre aux élèves d'apprendre les boucles for, les boucles while, et les tranches de liste. Ça utilise cette bibliothèque, on commence par quelques lignes, des dégradés, et on finit par des drapeaux nationaux.
 L'étape d'après (pas encore réalisée) ce sera de faire des spirales puis de créer un labyrinthe.
@@ -110,4 +111,28 @@ Il y a un notebook d'introduction (on peut y accéder à partir de celui là gr�
 Le dépot git est en ligne sur github
 https://github.com/swirly/nsi-notebooks/tree/master/ipythonblocks
 
+ ________________________________________
+ 
+> Je profite du message de Romain, pour préciser que mes cours sont peu 
+> à peu mis en ligne sur 
+> https://educloud.ac-creteil.fr/index.php/s/9cTTQF5WSG54TYx
+> et que les sources sont sur 
+> https://framagit.org/lasallesaintdenis/informatique/premiere-nsi
 
+j'apporte ma pierre à l'édifice avec la version 1.0 de mes supports (cours, QCM, DS et activités)
+
+1ère : http://projet.eu.org/pedago/sin/NSI/cours01/
+
+terminale : http://projet.eu.org/pedago/sin/NSI/cours02/
+
+le front office élève est là : 
+https://lewebpedagogique.com/dlaporte/category/nsi-1ere/
+
+ ________________________________________
+ 
+https://www.langevin-la-seyne.fr/images/DOC_NSI/exemples%20JavaScript.zip
+Je vous ai mis aussi le travail de 2 heures d’un élève  pour me préparer le site de présentation de la NSI c’est du travail élève je n’ai rien modifié.
+Sur le web j’ai une longue  expérience d’enseignement avec mes sti2d sin voici des exemples de projets que je vais adapter pour les NSI http://tsin.langevin-la-seyne.fr/SIN/journal-lumineux-raspberry-pi.html
+http://tsin.langevin-la-seyne.fr/SIN/robot-raspberry-pi-d-inspection.html
+http://tsin.langevin-la-seyne.fr/SIN/ballon-meteo-raspberry-pi.html
+cordialement
