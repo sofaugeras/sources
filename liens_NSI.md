@@ -139,3 +139,6 @@ cordialement
  ________________________________________
  
 outils client/serveur : https://httpie.org/
+ ________________________________________
+ Livre enseignement Tunisiens
+ https://www.sigmaths.net/manuels/informatique/informatique.php
