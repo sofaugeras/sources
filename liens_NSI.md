@@ -142,3 +142,9 @@ outils client/serveur : https://httpie.org/
  ________________________________________
  Livre enseignement Tunisiens
  https://www.sigmaths.net/manuels/informatique/informatique.php
+  ________________________________________
+ Cours Lumni
+ La vidéo est accessible sur Lumni : https://www.lumni.fr/video/notion-de-listes-en-informatique-et-application-aux-images-numeriques#containerType=serie&containerSlug=la-maison-lumni-lycee. 
+Je pense qu'elle va rester mais je vais demander. Sur Eduscol, on va déposer tous les supports et même d'autres documents pour aller plus loin sous la forme
+d'exercices avec les corrigés et un tutoriel sur Python Tutor.
+
