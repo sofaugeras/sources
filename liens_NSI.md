@@ -147,4 +147,10 @@ outils client/serveur : https://httpie.org/
  La vidéo est accessible sur Lumni : https://www.lumni.fr/video/notion-de-listes-en-informatique-et-application-aux-images-numeriques#containerType=serie&containerSlug=la-maison-lumni-lycee. 
 Je pense qu'elle va rester mais je vais demander. Sur Eduscol, on va déposer tous les supports et même d'autres documents pour aller plus loin sous la forme
 d'exercices avec les corrigés et un tutoriel sur Python Tutor.
+ ________________________________________
+Notre site : 
+http://monlyceenumerique.fr/nsi_premiere/index.html
 
+Pour chaque thème, nous construisons un QCM avec l’application SOCRATIVE. Nous avons créé un espace collaboratif pour mettre en commun les références des QCM : 
+
+https://docs.google.com/document/d/1OkDfQaMibIipBxKBl18nqTW0eb1O-8kla6F0X4Ra8QM/edit#heading=h.yls0mbkso1f0
