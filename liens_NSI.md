@@ -154,3 +154,14 @@ http://monlyceenumerique.fr/nsi_premiere/index.html
 Pour chaque thème, nous construisons un QCM avec l’application SOCRATIVE. Nous avons créé un espace collaboratif pour mettre en commun les références des QCM : 
 
 https://docs.google.com/document/d/1OkDfQaMibIipBxKBl18nqTW0eb1O-8kla6F0X4Ra8QM/edit#heading=h.yls0mbkso1f0
+
+ ________________________________________
+ 
+ DIU contenu pour la terminale : 
+ 1_paradigmes_de_programmation 
+2_structures_de_donnees 	Update 
+3_bases_de_donnees_introduction 
+4_bases_de_donnees_normalisation 	
+5_mini_projet 	
+6_FOAD 
+https://forge.univ-lyon1.fr/diu-eil/bloc4
