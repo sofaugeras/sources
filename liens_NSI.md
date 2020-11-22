@@ -165,3 +165,6 @@ https://docs.google.com/document/d/1OkDfQaMibIipBxKBl18nqTW0eb1O-8kla6F0X4Ra8QM/
 5_mini_projet 	
 6_FOAD 
 https://forge.univ-lyon1.fr/diu-eil/bloc4
+ ________________________________________
+Lien vers cours de Terminale
+https://www.dropbox.com/sh/m1ctqod105xoxfy/AADUMw5OKWcmkPTXH3GSffuSa/2020-2021/TerminaleNSI?dl=0&lst=&subfolder_nav_tracking=1
