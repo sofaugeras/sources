@@ -168,3 +168,11 @@ https://forge.univ-lyon1.fr/diu-eil/bloc4
  ________________________________________
 Lien vers cours de Terminale
 https://www.dropbox.com/sh/m1ctqod105xoxfy/AADUMw5OKWcmkPTXH3GSffuSa/2020-2021/TerminaleNSI?dl=0&lst=&subfolder_nav_tracking=1
+ ________________________________________
+
+ “visualisation” en ligne pour les élèves : https://boyer-moore.codekodo.net/ 1
+
+    Machine de Turing : https://mdt.codekodo.net/ 10
+    RSA : https://rsa.codekodo.net/ 11
+    Clés RSA : https://rsa-cles.codekodo.net/ 6
+
