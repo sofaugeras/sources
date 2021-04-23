@@ -14,6 +14,8 @@ ________________________________________
 Cours NSI : http://projet.eu.org/pedago/sin/NSI/
 ________________________________________
 http://www.maths-info-lycee.fr/nsi_1ere.html
+ téléchargement : http://www.maths-info-lycee.fr/notebooks/nsi_8_traitement_des_donnees.ipynb
+Le cours et les exos :http://www.maths-info-lycee.fr/notebooks/nsi_8_traitement_des_donnees.ipynb
 ________________________________________
 Le 15/03/2020 à 23:08, Vincent-Xavier JUMEL a écrit :
 > https://educloud.ac-creteil.fr/index.php/s/9cTTQF5WSG54TYx
@@ -71,32 +73,106 @@ Source opendata : https://www.kaggle.com/
 ________________________________________
 Binaire : 
 http://pise.info/algo/codage.htm
+
 https://codebeautify.org/binary-decimal-converter
+
 https://www.youtube.com/watch?v=y2e7RuFd5gU&list=PLOapGKeH_KhGI1CsCvu_nK9otou8_KsCZ
+
 TP 8 : L’alphabet shadok : https://www.fil.univ-lille1.fr/~wegrzyno/portail/Info/Doc/HTML/tp_numeration_shadok.html
+
 Primaire : https://www.classedemmeannelise.be/2019/04/08/ecrire-son-prenom-et-des-nombres-en-code-binaire/
 ________________________________________
 Python : 
 http://www.nymphomath.ch/pj/intro/index.html
 https://www.xavierdupre.fr/app/ensae_teaching_cs/helpsphinx2/notebooks/expose_TSP.html
+
 Jeux : https://codecombat.com/ ou http://www.france-ioi.org/ ou https://www.codingame.com/start
+
 Complexité en temps : https://wiki.python.org/moin/TimeComplexity
+
 https://python.iutsf.org/
+
 http://pise.info/algo/codage.htm
+
 https://cscircles.cemc.uwaterloo.ca/python-chez-vous/
+
 Algo rendu de monnaie : https://tryalgo.org/fr/2016/12/11/rendudemonnaie/
+
 Algo classique : ( tris, jeux, calendriers, cryptographie, compression de données…) http://lwh.free.fr/
- <hr />
-Site math et NSI 
-http://hmalherbe.fr/thalesm/gestclasse/
-Voir traitement de des données en table
-http://hmalherbe.fr/thalesm/gestclasse/index.php?page=page&id_page=110&id_page_sous_titre=112
- <hr />
-listes : 
-https://peertube.lyceeconnecte.fr/videos/watch/ed1cbde6-d006-4b69-86bf-10a8c09f6226 
-arbres : 
-https://peertube.lyceeconnecte.fr/videos/watch/4f74f595-b21c-404d-b3f4-a6aeeb3ec26b 
-programmation récursive : 
-https://peertube.lyceeconnecte.fr/videos/watch/305a90a4-6858-4ded-8edc-364a35187820 
- <hr />
+
+ ________________________________________
+ 
+Comme nous avons installé un serveur Jupyter au lycée (merci encore Olivier pour ton travail), nous utilisons les notebooks et il y a une bibliothèque assez géniale qui est ipythonblocks ( http://www.ipythonblocks.org/ ).
+J'ai commis quelques notebooks pour permettre aux élèves d'apprendre les boucles for, les boucles while, et les tranches de liste. Ça utilise cette bibliothèque, on commence par quelques lignes, des dégradés, et on finit par des drapeaux nationaux.
+L'étape d'après (pas encore réalisée) ce sera de faire des spirales puis de créer un labyrinthe.
+Le notebook de départ est visible là :
+https://nbviewer.jupyter.org/github/swirly/nsi-notebooks/blob/master/ipythonblocks/boucles.ipynb
+Il y a un notebook d'introduction (on peut y accéder à partir de celui là grâce au lien) et chaque notebook est ouvert grâce à un lien dans le précédent (il y en a 5 en tout)
+Le dépot git est en ligne sur github
+https://github.com/swirly/nsi-notebooks/tree/master/ipythonblocks
+
+ ________________________________________
+ 
+> Je profite du message de Romain, pour préciser que mes cours sont peu 
+> à peu mis en ligne sur 
+> https://educloud.ac-creteil.fr/index.php/s/9cTTQF5WSG54TYx
+> et que les sources sont sur 
+> https://framagit.org/lasallesaintdenis/informatique/premiere-nsi
+
+j'apporte ma pierre à l'édifice avec la version 1.0 de mes supports (cours, QCM, DS et activités)
+
+1ère : http://projet.eu.org/pedago/sin/NSI/cours01/
+
+terminale : http://projet.eu.org/pedago/sin/NSI/cours02/
+
+le front office élève est là : 
+https://lewebpedagogique.com/dlaporte/category/nsi-1ere/
+
+ ________________________________________
+ 
+https://www.langevin-la-seyne.fr/images/DOC_NSI/exemples%20JavaScript.zip
+Je vous ai mis aussi le travail de 2 heures d’un élève  pour me préparer le site de présentation de la NSI c’est du travail élève je n’ai rien modifié.
+Sur le web j’ai une longue  expérience d’enseignement avec mes sti2d sin voici des exemples de projets que je vais adapter pour les NSI http://tsin.langevin-la-seyne.fr/SIN/journal-lumineux-raspberry-pi.html
+http://tsin.langevin-la-seyne.fr/SIN/robot-raspberry-pi-d-inspection.html
+http://tsin.langevin-la-seyne.fr/SIN/ballon-meteo-raspberry-pi.html
+cordialement
+ ________________________________________
+ 
+outils client/serveur : https://httpie.org/
+ ________________________________________
+ Livre enseignement Tunisiens
+ https://www.sigmaths.net/manuels/informatique/informatique.php
+  ________________________________________
+ Cours Lumni
+ La vidéo est accessible sur Lumni : https://www.lumni.fr/video/notion-de-listes-en-informatique-et-application-aux-images-numeriques#containerType=serie&containerSlug=la-maison-lumni-lycee. 
+Je pense qu'elle va rester mais je vais demander. Sur Eduscol, on va déposer tous les supports et même d'autres documents pour aller plus loin sous la forme
+d'exercices avec les corrigés et un tutoriel sur Python Tutor.
+ ________________________________________
+Notre site : 
+http://monlyceenumerique.fr/nsi_premiere/index.html
+
+Pour chaque thème, nous construisons un QCM avec l’application SOCRATIVE. Nous avons créé un espace collaboratif pour mettre en commun les références des QCM : 
+
+https://docs.google.com/document/d/1OkDfQaMibIipBxKBl18nqTW0eb1O-8kla6F0X4Ra8QM/edit#heading=h.yls0mbkso1f0
+
+ ________________________________________
+ 
+ DIU contenu pour la terminale : 
+ 1_paradigmes_de_programmation 
+2_structures_de_donnees 	Update 
+3_bases_de_donnees_introduction 
+4_bases_de_donnees_normalisation 	
+5_mini_projet 	
+6_FOAD 
+https://forge.univ-lyon1.fr/diu-eil/bloc4
+ ________________________________________
+Lien vers cours de Terminale
+https://www.dropbox.com/sh/m1ctqod105xoxfy/AADUMw5OKWcmkPTXH3GSffuSa/2020-2021/TerminaleNSI?dl=0&lst=&subfolder_nav_tracking=1
+ ________________________________________
+
+ “visualisation” en ligne pour les élèves : https://boyer-moore.codekodo.net/ 1
+
+    Machine de Turing : https://mdt.codekodo.net/ 10
+    RSA : https://rsa.codekodo.net/ 11
+    Clés RSA : https://rsa-cles.codekodo.net/ 6
 
