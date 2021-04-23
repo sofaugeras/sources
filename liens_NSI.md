@@ -86,6 +86,17 @@ http://pise.info/algo/codage.htm
 https://cscircles.cemc.uwaterloo.ca/python-chez-vous/
 Algo rendu de monnaie : https://tryalgo.org/fr/2016/12/11/rendudemonnaie/
 Algo classique : ( tris, jeux, calendriers, cryptographie, compression de données…) http://lwh.free.fr/
- 
-
+ <hr />
+Site math et NSI 
+http://hmalherbe.fr/thalesm/gestclasse/
+Voir traitement de des données en table
+http://hmalherbe.fr/thalesm/gestclasse/index.php?page=page&id_page=110&id_page_sous_titre=112
+ <hr />
+listes : 
+https://peertube.lyceeconnecte.fr/videos/watch/ed1cbde6-d006-4b69-86bf-10a8c09f6226 
+arbres : 
+https://peertube.lyceeconnecte.fr/videos/watch/4f74f595-b21c-404d-b3f4-a6aeeb3ec26b 
+programmation récursive : 
+https://peertube.lyceeconnecte.fr/videos/watch/305a90a4-6858-4ded-8edc-364a35187820 
+ <hr />
 
